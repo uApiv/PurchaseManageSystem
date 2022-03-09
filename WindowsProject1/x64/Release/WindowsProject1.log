@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  WindowsProject1.cpp
+D:\课内作业\WindowsProject1 - Chinese - Final3\WindowsProject1\WindowsProject1.cpp(219,1): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+D:\课内作业\WindowsProject1 - Chinese - Final3\WindowsProject1\WindowsProject1.cpp(669,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\课内作业\WindowsProject1 - Chinese - Final3\WindowsProject1\WindowsProject1.cpp(1053,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  yjh_1.cpp
+D:\课内作业\WindowsProject1 - Chinese - Final3\WindowsProject1\yjh_1.cpp(1417,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
